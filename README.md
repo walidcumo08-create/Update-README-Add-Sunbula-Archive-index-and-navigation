@@ -37,12 +37,12 @@ Added project description, categorization for the 101 articles, and links to off
 
 ## معرض الصور
 
-[منصة سنبلة](<img width="1254" height="1254" alt="1000233777" src="https://github.com/user-attachments/assets/289cdad0-3058-4984-8dbc-613e9a78ab02" />
-.png)
+[منصة سنبلة]<img width="1254" height="1254" alt="1000233777" src="https://github.com/user-attachments/assets/289cdad0-3058-4984-8dbc-613e9a78ab02" />
+.
 [وليد جمو]<img width="1080" height="1884" alt="1000222712" src="https://github.com/user-attachments/assets/b70987f0-c248-461b-8191-4ce65ef36f39" />
 
 
-[الهوية البصرية<img width="1672" height="941" alt="1000223140" src="https://github.com/user-attachments/assets/14bb8ac3-66aa-458d-9a17-71e6443250c2" />
+[الهوية البصرية]<img width="1672" height="941" alt="1000223140" src="https://github.com/user-attachments/assets/0eadd88f-c0f2-45a7-b31c-56fc1b56d1d1" />
 
 
 
