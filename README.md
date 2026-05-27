@@ -33,19 +33,18 @@ Added project description, categorization for the 101 articles, and links to off
 * 💻 **الهوية الرقمية:** [Gravatar Profile](https://gravatar.com/walidcumo08)
 * 🐙 **المستودع الرقمي:** [GitHub Repository](https://github.com/walidcumo08-create/walidcumo08)
 
----
+--
 
 ## معرض الصور
 
-## معرض الصور
+![منصة سنبلة](<img width="1254" height="1254" alt="1000233777" src="https://github.com/user-attachments/assets/289cdad0-3058-4984-8dbc-613e9a78ab02" />
+.png)
 
-![منصة سنبلة](<img width="1254" height="1254" alt="1000233777" src="https://github.com/user-attachments/assets/751c70d5-0c94-4ea5-aab4-7dcf25723d87" />
-)
+![وليد جمو](<img width="1080" height="1884" alt="1000222712" src="https://github.com/user-attachments/assets/beffc4c9-5a56-4c80-8ccb-a24055936d93" />
+.jpg)
 
-![وليد جمو](<img width="1080" height="1884" alt="1000222712" src="https://github.com/user-attachments/assets/bf620a7d-9e85-4ff7-96c9-ce8d843260df" />
-)
+![الهوية البصرية](<img width="1672" height="941" alt="1000223140" src="https://github.com/user-attachments/assets/9e1aab40-87e8-4770-a470-67c22109ac17" />
+.png)
 
-![الهوية البصرية](<img width="1672" height="941" alt="1000223140" src="https://github.com/user-attachments/assets/46eecc7c-fad0-48fb-b0a5-1590eb0ecfc9" />
-)
 
 *تم التحديث بتاريخ: مايو 2026*
