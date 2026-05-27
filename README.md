@@ -36,11 +36,16 @@ Added project description, categorization for the 101 articles, and links to off
 ---
 
 ## معرض الصور
-![منصة سنبلة].png<img width="1254" height="1254" alt="1000233777" src="https://github.com/user-attachments/assets/b372fef9-9914-4123-a8b1-d1c2cd13183b" />
+
+## معرض الصور
+
+![منصة سنبلة](<img width="1254" height="1254" alt="1000233777" src="https://github.com/user-attachments/assets/751c70d5-0c94-4ea5-aab4-7dcf25723d87" />
 )
-![وليد جمو].jpg<img width="1080" height="1884" alt="1000222712" src="https://github.com/user-attachments/assets/27b5d441-0697-47cf-a5f0-279f6ee6af29" />
+
+![وليد جمو](<img width="1080" height="1884" alt="1000222712" src="https://github.com/user-attachments/assets/bf620a7d-9e85-4ff7-96c9-ce8d843260df" />
 )
-![الهوية البصرية].png<img width="1672" height="941" alt="1000223140" src="https://github.com/user-attachments/assets/844aafa5-449a-4425-855d-6ff464d95aca" />
+
+![الهوية البصرية](<img width="1672" height="941" alt="1000223140" src="https://github.com/user-attachments/assets/46eecc7c-fad0-48fb-b0a5-1590eb0ecfc9" />
 )
 
 *تم التحديث بتاريخ: مايو 2026*
